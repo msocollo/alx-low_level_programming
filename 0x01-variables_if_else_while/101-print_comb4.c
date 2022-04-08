@@ -37,5 +37,3 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
-
-© 2022

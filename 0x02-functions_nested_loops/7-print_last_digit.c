@@ -27,6 +27,3 @@ return (last_digit);
 }
 
 }
-© 2022 GitHub, Inc.
-Terms
-P

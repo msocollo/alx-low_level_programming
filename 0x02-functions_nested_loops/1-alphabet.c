@@ -1,5 +1,4 @@
-#include <stdio.h>
-#inlude "main.h"
+#include "main.h"
 /**
  * Main carries the method
  *
